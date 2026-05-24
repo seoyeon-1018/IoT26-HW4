@@ -47,4 +47,8 @@ The LEDs were connected to Raspberry Pi GPIO pins through resistors.
 ## 7. Flask Server
 
 The Flask server was executed on Raspberry Pi.
+<img width="1438" height="863" alt="HW4" src="https://github.com/user-attachments/assets/31c41b0a-1180-4089-909e-55f2bf53e5d2" />
 
+
+## 8. Result
+<img width="3024" height="4032" alt="HW4_circuit" src="https://github.com/user-attachments/assets/b4a38548-8633-46b9-9e53-801c17db4a88" />
