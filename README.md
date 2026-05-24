@@ -51,4 +51,9 @@ The Flask server was executed on Raspberry Pi.
 
 
 ## 8. Result
-<img width="3024" height="4032" alt="HW4_circuit" src="https://github.com/user-attachments/assets/b4a38548-8633-46b9-9e53-801c17db4a88" />
+
+
+https://github.com/user-attachments/assets/9ca9888e-7ba2-4da0-88a5-f01e4f5afdc4
+
+
+
