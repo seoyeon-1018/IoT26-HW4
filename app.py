@@ -1,10 +1,3 @@
-"""
-IoT26-HW04
-Raspberry Pi Flask GPIO Web Server
-
-This program creates a Flask web server on Raspberry Pi.
-The web page controls two LEDs connected to GPIO 23 and GPIO 24.
-"""
 
 import RPi.GPIO as GPIO
 from flask import Flask, render_template, redirect, url_for
